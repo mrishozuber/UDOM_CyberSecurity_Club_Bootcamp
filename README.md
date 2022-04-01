@@ -1,13 +1,7 @@
 # UDOM_CyberSecurity_Club_Bootcamp
 The club main purpose is to provide students who are interested in cybersecurity with the technical resources needed to advance their computer security careers. 
 
-# Awesome CTF Cheatsheet 
-
-> A currated list of all capture the flag tips and strategies to solve Online CTF challenges and Hackthebox Machines.
-
-
-
----
+# Awesome Cheatsheet 
 
 ## Contents
 
